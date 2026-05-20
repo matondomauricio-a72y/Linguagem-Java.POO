@@ -1,0 +1,16 @@
+{
+  "catalogo": [
+    {
+      "titulo": "Introdução a Java",
+      "autor": "Ana Silva",
+      "isbn": "9781234567890",
+      "copiasDisponiveis": 1
+    },
+    {
+      "titulo": "Estruturas de Dados",
+      "autor": "Carlos Souza",
+      "isbn": "9780987654321",
+      "copiasDisponiveis": 1
+    }
+  ]
+}
